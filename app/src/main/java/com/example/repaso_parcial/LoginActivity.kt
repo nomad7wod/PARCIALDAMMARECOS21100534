@@ -22,8 +22,8 @@ class LoginActivity : AppCompatActivity() {
             insets
         }
         title = "Sign In"
-        val emailSuccess: String = "admin@peru.com"
-        val passwordSuccess: String = "12345678"
+        val emailSuccess: String = "admin@travelapp.com"
+        val passwordSuccess: String = "admin123"
 
         val etEmail: EditText = findViewById(R.id.etEmail)
         val etPassword: EditText = findViewById(R.id.etPassword)
